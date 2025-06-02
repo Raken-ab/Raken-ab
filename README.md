@@ -1,3 +1,10 @@
+<div align="right">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raken-belayet-948407306)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rakenhossain@gmail.com)
+
+</div>
+
 # 💫 About Me:
 Hi! My name is Raken, I am a student at NWU and a software engineer. <br><br>🔭 I’m currently working on <br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
