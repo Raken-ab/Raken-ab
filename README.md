@@ -1,44 +1,44 @@
-# Hi there! 👋 I'm Raken Belayet
+# Hey!👋 I'm Raken Belayet
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Software+Engineer+%F0%9F%92%BB;NWU+Student+%F0%9F%8E%93;Full+Stack+Developer+%E2%9C%A8;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Raken-ab&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</div>
+## 💫 About Me
 
-## 🚀 About Me
+Hi! My name is Raken, I am a student at NWU and a software engineer passionate about creating innovative solutions and learning cutting-edge technologies.
 
 ```javascript
 const raken = {
     location: "South Africa 🇿🇦",
     education: "North-West University (NWU)",
     role: "Software Engineer & Student",
-    languages: ["C#", "C++", "Java", "JavaScript"],
-    currentFocus: "Full-Stack Development",
-    hobbies: ["Coding", "Problem Solving", "Learning New Tech"],
+    languages: ["C#", "C++", "Java", "JavaScript", "Python", "TypeScript"],
+    currentFocus: "Full-Stack Development & Mobile Apps",
+    databases: ["MySQL", "Oracle"],
+    frameworks: [".NET", "React Native", "Expo"],
     motto: "Code with passion, learn with purpose! 💪"
 };
 ```
 
-### 🔭 What I'm Currently Working On
-- Building innovative web applications
-- Exploring cloud technologies and DevOps
-- Contributing to open-source projects
+### 🔭 I'm currently working on
+- Building cross-platform reminder and sobriety mobile applications using streaks with React Native for students who struggle with consistency.
+- Full-Stack web developement projects using HTML, CSS and JavaScript 
+- Completing Harvards CS50 Python course
+- My studies at NWU
 
-### 🌱 Currently Learning
-- Advanced JavaScript frameworks
+### 🤝 I'm looking for help with
+- Advanced cloud computing architectures
+- Mobile app optimization techniques
+- Best practices in software engineering
+- Open source contribution strategies
+
+### 🌱 I'm currently learning
+- Advanced React Native development
 - Cloud computing (AWS/Azure)
-- Database optimization techniques
-
-### 👯 Looking to Collaborate On
-- Open source projects
-- Web development initiatives
-- Educational tech solutions
-
-### ⚡ Fun Fact
-I debug code faster with coffee ☕ and solve problems better with music 🎵!
+- Python (Harvard CS50)
+- Database optimization with Oracle and MySQL
+- Game Developement on GameMaker and Unity
 
 ---
 
@@ -51,15 +51,21 @@ I debug code faster with coffee ☕ and solve problems better with music 🎵!
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+### Web Technologies
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Frameworks & Libraries
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
 
 ### Databases
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -89,15 +95,15 @@ I debug code faster with coffee ☕ and solve problems better with music 🎵!
 ---
 
 ## 🎯 2025 Goals
-- [ ] Contribute to 5+ open source projects
-- [ ] Build and deploy 3 full-stack applications
-- [ ] Master cloud computing fundamentals
-- [ ] Complete advanced algorithms course
-- [ ] Start tech blogging journey
+- [ ] Master React Native and complete my app
+- [ ] Make atleast 3 valuable projects
+- [ ] Complete AWS, CS50 and any other incomplete course
+- [ ] Deploy full-stack applications using cloud services
+- [ ] Succeed in University and work toward my first job
 
 ---
 
-## 🤝 Let's Connect!
+## 🌐 Let's Connect!
 
 <div align="center">
 
