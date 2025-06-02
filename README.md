@@ -17,7 +17,6 @@ const raken = {
     currentFocus: "Full-Stack Development & Mobile Apps",
     databases: ["MySQL", "Oracle"],
     frameworks: [".NET", "React Native", "Expo"],
-    motto: "Code with passion, learn with purpose! 💪"
 };
 ```
 
