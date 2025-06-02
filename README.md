@@ -1,6 +1,6 @@
 
 <div align="right">
-## 🌐 Socials
+Socials:
 </div>
 <div align="right">
 
