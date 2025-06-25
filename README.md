@@ -1,4 +1,4 @@
-# Hey!👋 I'm Raken Belayet
+# Hey!👋 I'm Raken Belayet<div align="right">[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raken-belayet-948407306)[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rakenhossain@gmail.com)[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Raken-ab)</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Software+Engineer+%F0%9F%92%BB;NWU+Student+%F0%9F%8E%93;Full+Stack+Developer+%E2%9C%A8;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
@@ -25,12 +25,6 @@ const raken = {
 - Full-Stack web developement projects using HTML, CSS and JavaScript 
 - Completing Harvards CS50 Python course
 - My studies at NWU
-
-### 🤝 I'm looking for help with
-- Advanced cloud computing architectures
-- Mobile app optimization techniques
-- Best practices in software engineering
-- Open source contribution strategies
 
 ### 🌱 I'm currently learning
 - Advanced React Native development
@@ -79,7 +73,7 @@ const raken = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=Raken-ab&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  
  <img height="180px"  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Raken-ab&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
 
