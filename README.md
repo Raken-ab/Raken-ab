@@ -111,22 +111,9 @@ const raken = {
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Raken-ab&color=58A6FF&style=for-the-badge" alt="Profile Views" />
-</div>
-
-<div align="center">
-  
-### 💭 Quote of the Day
-  
-*"The best way to predict the future is to create it."* - Peter Drucker
-
 **Thanks for visiting my profile! Feel free to explore my repositories and don't hesitate to reach out! 🚀**
 
 </div>
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
