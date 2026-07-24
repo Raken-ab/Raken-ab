@@ -70,34 +70,6 @@ const raken = {
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  
- <img height="180px"  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Raken-ab&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
-
-
-</div>
-
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Raken-ab&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Raken-ab&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-</div>
-
----
-
-## 🎯 2025 Goals
-- [ ] Master React Native and complete my app
-- [ ] Make atleast 3 valuable projects
-- [ ] Complete AWS, CS50 and any other incomplete course
-- [ ] Deploy full-stack applications using cloud services
-- [ ] Succeed in University and work toward my first job
-
----
 
 ## 🌐 Let's Connect!
 
