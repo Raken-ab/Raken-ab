@@ -1,4 +1,4 @@
-# Hey!👋 I'm Raken Belayet<div align="right">[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raken-belayet-948407306)[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rakenhossain@gmail.com)[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Raken-ab)</div>
+# Hey!👋 I'm Raken Belayet<div align="right">[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raken-belayet-948407306)[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rakenhossain@gmail.com)[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Raken-ab)[![Virtual VC](https://img.shields.io/badge/Virtual_VC-8A2BE2?style=for-the-badge&logo=googlecardboard&logoColor=white)](https://rakenportfolio.netlify.app/)</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Software+Engineer+%F0%9F%92%BB;NWU+Student+%F0%9F%8E%93;Full+Stack+Developer+%E2%9C%A8;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
@@ -78,7 +78,7 @@ const raken = {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raken-belayet-948407306)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rakenhossain@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Raken-ab)
-
+[![Virtual VC](https://img.shields.io/badge/VirtualCV-ffab00?style=for-the-badge&logoColor=0d1117&labelColor=0d1117")](https://rakenportfolio.netlify.app/)
 </div>
 
 ---
