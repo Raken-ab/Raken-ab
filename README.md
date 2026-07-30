@@ -22,8 +22,8 @@ const raken = {
 
 ### 🔭 I'm currently working on
 - Building cross-platform reminder and sobriety mobile applications using streaks with React Native for students who struggle with consistency.
-- Full-Stack web developement projects using HTML, CSS and JavaScript 
-- Completing Harvards CS50 Python course
+- Full-stack web development projects using HTML, CSS and JavaScript
+- Completing Harvard's CS50 Python course
 - My studies at NWU
 
 ### 🌱 I'm currently learning
@@ -31,7 +31,7 @@ const raken = {
 - Cloud computing (AWS/Azure)
 - Python (Harvard CS50)
 - Database optimization with Oracle and MySQL
-- Game Developement on GameMaker and Unity
+- Game development in GameMaker and Unity
 
 ---
 
@@ -70,7 +70,6 @@ const raken = {
 
 ---
 
-
 ## 🌐 Let's Connect!
 
 <div align="center">
@@ -78,14 +77,10 @@ const raken = {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raken-belayet-948407306)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rakenhossain@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Raken-ab)
-[![Virtual VC](https://img.shields.io/badge/VirtualCV-ffab00?style=for-the-badge&logoColor=0d1117&labelColor=0d1117")](https://rakenportfolio.netlify.app/)
+[![Virtual VC](https://img.shields.io/badge/Virtual_VC-ffab00?style=for-the-badge&logo=googlecardboard&logoColor=0d1117&labelColor=0d1117)](https://rakenportfolio.netlify.app/)
+
 </div>
 
 ---
 
 **Thanks for visiting my profile! Feel free to explore my repositories and don't hesitate to reach out! 🚀**
-
-</div>
-
----
-
